@@ -1,93 +1,77 @@
 # Hi, I'm Tim 👋
 
-📍 **San-Francisco ↔ California** | 🤖 **Frontend Developer** | 🚀 Runner ****
+📍 **San Francisco Bay Area** | 💻 **Frontend Developer** | 🏃 **Runner** | 5+ Years Experience
 
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-## Current Projects
+## About Me
 
-- 🦞 **[Clawdbot](https://github.com/clawdbot/clawdbot)** - the AI that actually does things
-- 🚇 **[VibeTunnel](https://github.com/amantus-ai/vibetunnel)** - Turn any browser into your terminal; command agents from the road (vt.sh)
-- 🎚️ **[CodexBar](https://github.com/steipete/CodexBar)** - May your tokens never run out—keep agent limits in view.
-- 🚀 **[Peekaboo](https://github.com/steipete/Peekaboo)** - Lightning-fast macOS screenshots & GUI automation (MCP + CLI)
-- 
-### Legacy Work
-- 🔄 **[CodeLooper](https://github.com/steipete/CodeLooper)** - macOS menubar app for Cursor workflow monitoring and automation
-- 🧩 **[InterposeKit](https://github.com/steipete/InterposeKit)** - Modern Swift method swizzling
-- 🪝 **[Aspects](https://github.com/steipete/Aspects)** - AOP for Objective-C (10k+ stars)
-- 📄 **[PSPDFKit](https://pspdfkit.com)** - Industry-leading PDF SDK ([exited 2021](https://techcrunch.com/2021/10/01/pspdfkit-raises-116m-its-first-outside-money-now-nearly-1b-people-use-apps-powered-by-its-collaboration-signing-and-markup-tools/))
-- 🛑 **[Terminator MCP](https://github.com/steipete/Terminator)** - I'll be back... with your terminal output!
-- 🪢 **[Conduit MCP](https://github.com/steipete/conduit-mcp)** - Purr-fect MCP server for feline-fast file ops, web prowling, and data hunting
-- 🛡️ **[XC Sentinel](https://github.com/steipete/xcsentinel)** - Intelligent Xcode automation with incremental builds and AI-friendly output
-- 🍵 **[Matcha](https://github.com/steipete/Matcha)** - Swift port of Bubble Tea TUI framework
-- 🌡️ **[VibeMeter](https://github.com/steipete/vibemeter)** - Archived: AI cost tracker for Cursor/OpenAI (vibemeter.ai)
+I'm a Frontend Developer based in the San Francisco Bay Area. I help people solve real-world problems by building web and mobile apps.
 
+- ✅ **Authorized** to work in the United States
+- 📍 **Based** in the San Francisco Bay Area
+- ❤️ **Love** Next.js, TailwindCSS, and TypeScript
+- 🎓 **Have** a Computer Science degree
+- 🗣️ **Speak** English, German, and Mongolian
 
-## GitHub Activity
+🌐 **[Visit my website](https://hiretimsf.com)** | 📖 **[Read my blog](https://hiretimsf.com/blog)**
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/steipete)
+## Featured Projects
 
-## What I'm Doing
+### � Full-Stack Blog App
+A modern blog application with full CRUD functionality, user authentication, and responsive design.
+- **[Live Demo](https://ubdotcafe.vercel.app)**
+- **[GitHub Repository](https://github.com/timtbdev/Next.js-Blog-App)**
 
-- **Living in the future** - Learning and building tools to make agentic engineering faster for everyone
-- **Writing about AI workflows** - Sharing my learnings on [steipete.me](https://steipete.me)
-- **Rapid prototyping** - Full apps in days, not months
-- **[Speaking at conferences](https://github.com/steipete/speaking)** - On vibe coding vs agentic engineering and the future of development
+### 💼 Portfolio Website v3
+My personal portfolio showcasing projects, blog posts, and professional experience.
+- **[Live Demo](https://hiretimsf.com)**
+- **[GitHub Repository](https://github.com/hiretimsf/Portfolio-Web-v3)**
+
+### 🛑 Stop Buy Domain
+A domain name availability checker with a clean, intuitive interface.
+- **[Live Demo](https://stopbuydomain.vercel.app/)**
+- **[GitHub Repository](https://github.com/hiretimsf/stopbuydomain)**
 
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code Anonymous](https://steipete.me/posts/2025/claude-code-anonymous)
-- [Live Coding Session: Building Arena](https://steipete.me/posts/2025/live-coding-session-building-arena)
-- [Peekaboo 2.0 – Free the CLI from its MCP shackles](https://steipete.me/posts/2025/peekaboo-2-freeing-the-cli-from-its-mcp-shackles)
-- [My AI Workflow for Understanding Any Codebase](https://steipete.me/posts/2025/understanding-codebases-with-ai-gemini-workflow)
-- [VibeTunnel: Turn Any Browser into Your Mac's Terminal](https://steipete.me/posts/2025/vibetunnel-turn-any-browser-into-your-mac-terminal)
+- [I Might Be the First Person to Receive a shadcn Autograph](https://hiretimsf.com/blog/post/shadcn-autograph)
+- [Running the SF Marathon and Promoting Myself](https://hiretimsf.com/blog/post/running-sf-marathon-and-promoting-myself)
+- [My Portfolio was Featured on WeAreDevelopers!](https://hiretimsf.com/blog/post/my-portfolio-was-featured)
 <!-- BLOG-POST-LIST:END -->
+
+## Tech Stack
+
+**Frontend:** Next.js, React, TypeScript, JavaScript, TailwindCSS  
+**Backend:** Node.js, Express  
+**Database:** PostgreSQL, MongoDB  
+**Tools:** Git, GitHub, Vercel, VS Code
 
 ## Connect
 
-[![Twitter](https://img.shields.io/badge/-@steipete-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/steipete)
-[![Mastodon](https://img.shields.io/badge/-@steipete-6364FF?style=flat-square&logo=mastodon&logoColor=white)](https://mastodon.social/@steipete)
-[![Bluesky](https://img.shields.io/badge/-steipete.me-00A8E8?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/steipete.me)
-[![Blog](https://img.shields.io/badge/-steipete.me-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://steipete.me)
-[![LinkedIn](https://img.shields.io/badge/-Peter_Steinberger-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steipete)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/steipete)
+[![Website](https://img.shields.io/badge/-hiretimsf.com-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://hiretimsf.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/timtbdev)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/timtbdev)
 
 ---
 
-### Recognition
+### What I'm Doing
 
-- Featured in **[The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/p/software-engineering-with-llms-in-2025)** newsletter
-- International speaker ([See my talks](https://github.com/steipete/speaking))
-- 15k+ GitHub stars across projects
-- Bootstrapped PSPDFKit to millions in ARR before exit
-
-### Media
-
-- **[How to Code 20x Faster with Claude Code](https://www.youtube.com/watch?v=JGxyrPkAKiY&t=2s)** - Detailed walkthrough of my AI-native development workflow
-- **[Inside Apple's AI Fail](https://www.podcast.de/episode/689639265/inside-apples-ai-fail-mit-peter-steinberger)** - German podcast discussing Apple Intelligence
-- **[AI Native Development Interview](https://www.youtube.com/watch?v=fu7th5HiADo)** - Deep dive into vibe coding and the future of software development
-- **[Arena Live Build – Full Session](https://www.youtube.com/watch?v=z2IDQbNOS5s)** - Live coding session showing the full Arena build process
-- **[Claude 3 Sonnet 'Funeral' in San Francisco](https://www.wired.com/story/claude-3-sonnet-funeral-san-francisco/)** - WIRED article featuring the memorial for Claude 3.5 Sonnet ([no paywall](https://gist.github.com/steipete/8344756e51df68406eb5302d4c19d6ea))
-
-### Model Status
-
-- **What model is Peter using?** Check the live blurb at [whatmodelispeterusing.com](https://whatmodelispeterusing.com)
+- 🚀 **Building modern web apps** - Creating pixel-perfect, user-centric applications
+- ✍️ **Writing about development** - Sharing insights on [hiretimsf.com/blog](https://hiretimsf.com/blog)
+- 🏃 **Running** - Completed the SF Marathon
+- 🌱 **Learning** - Constantly improving my skills and staying current with web technologies
 
 ### Philosophy
 
-> "Ship beats perfect" - I build tools to solve my own problems, then share them with the world. Currently exploring how AI changes everything about software development.
+> "I help people solve real-world problems by building web and mobile apps" - Focused on creating high-quality, user-centric applications that make a difference.
 
-<details>
-<summary>Random Facts</summary>
+---
 
-- Treat AI agents as "slot machines for programmers"
-- Run 3-6 Claude instances concurrently
-- Powered by Vienna coffee culture
-- Gym enthusiast (when not coding)
-- Coaches LGBTQ+ folks at [Out In Tech](https://outintech.com/)
-
-</details>
+💼 **Looking for a Frontend Developer?** Check out my work at [hiretimsf.com](https://hiretimsf.com)
 
