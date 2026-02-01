@@ -1,6 +1,6 @@
 # Hi, I'm Tim 👋
 
-📍 **San Francisco Bay Area** | 💻 **Frontend Developer** | 🏃 **Runner** | 5+ Years Experience
+🌁 **San Francisco Bay Area** | 💻 **Frontend Developer** | 🏃 **Runner** 
 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -14,7 +14,7 @@ I'm a Frontend Developer based in the San Francisco Bay Area. I help people solv
 
 - ✅ **Authorized** to work in the United States
 - 📍 **Based** in the San Francisco Bay Area
-- ❤️ **Love** Next.js, TailwindCSS, and TypeScript
+- ❤️ **Love** Next.js, TailwindCSS, and TypeScript, Shadcn UI
 - 🎓 **Have** a Computer Science degree
 - 🗣️ **Speak** English, German, and Mongolian
 
@@ -27,7 +27,7 @@ A modern blog application with full CRUD functionality, user authentication, and
 - **[Live Demo](https://ubdotcafe.vercel.app)**
 - **[GitHub Repository](https://github.com/timtbdev/Next.js-Blog-App)**
 
-### 💼 Portfolio Website v3
+### 💼 Portfolio Website v4
 My personal portfolio showcasing projects, blog posts, and professional experience.
 - **[Live Demo](https://hiretimsf.com)**
 - **[GitHub Repository](https://github.com/hiretimsf/Portfolio-Web-v3)**
@@ -57,19 +57,6 @@ A domain name availability checker with a clean, intuitive interface.
 [![Website](https://img.shields.io/badge/-hiretimsf.com-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://hiretimsf.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/timtbdev)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/timtbdev)
-
----
-
-### What I'm Doing
-
-- 🚀 **Building modern web apps** - Creating pixel-perfect, user-centric applications
-- ✍️ **Writing about development** - Sharing insights on [hiretimsf.com/blog](https://hiretimsf.com/blog)
-- 🏃 **Running** - Completed the SF Marathon
-- 🌱 **Learning** - Constantly improving my skills and staying current with web technologies
-
-### Philosophy
-
-> "I help people solve real-world problems by building web and mobile apps" - Focused on creating high-quality, user-centric applications that make a difference.
 
 ---
 
