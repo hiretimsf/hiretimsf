@@ -18,5 +18,5 @@ I'm a Frontend Developer based in the San Francisco Bay Area. I help people solv
 - 🎓 **Have** a Computer Science degree
 - 🗣️ **Speak** English, German, and Mongolian
 
-🌐 **[Visit my website](https://hiretimsf.com)** | 📖 **[Read my blog](https://hiretimsf.com/blog)**
+🌐 **[Visit my portfolio](https://hiretimsf.com)**
 
