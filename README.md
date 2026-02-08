@@ -10,7 +10,7 @@
 
 ## About Me
 
-I'm a Frontend Developer with 5+ years of experience, working with Next.js, TypeScript, TailwindCSS, and Shadcn UI. Focused on a clean, simple UI that feels right to human eyes and easy to find on Google.
+I'm a Frontend Developer with 5+ years of experience, working with Next.js, TypeScript, TailwindCSS, and Shadcn UI. Focused on a clean, simple UI that feels right.
 
 - ✅ **Authorized** to work in the United States
 - 📍 **Based** in the San Francisco Bay Area
